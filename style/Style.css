@@ -1,0 +1,95 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+.Titulo {
+    text-align: center;
+    background-color: rgb(144, 209, 144);
+    padding: 20px;
+}
+.Image1 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #fff3bd;
+
+}
+.Image1--Contenedor {
+    padding: 5px;
+    height: 600px;
+    width: 50%;
+    background-image: url(/Recursos/Torre\ Eiffel.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+}
+.Contenedor-Texto1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    width: 50%;
+}
+.Contenedor-Texto1 :hover {
+    background-color: aquamarine;
+}
+.Image2 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #fff3bd;
+}
+.Image2--Contenedor {
+    padding: 5px;
+    height: 600px;
+    width: 50%;
+    background-image: url(/Recursos/Tag\ Mahal.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+}
+.Contenedor-Texto2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    width: 50%;
+}
+.Contenedor-Texto2 :hover {
+    background-color: aquamarine;
+}
+.Image3 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #fff3bd;
+}
+.Image3--Contenedor {
+    padding: 5px;
+    height: 600px;
+    width: 50%;
+    background-image: url(/Recursos/Basilica\ de\ la\ Sagrada.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+}
+.Contenedor-Texto3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    width: 50%;
+}
+.Contenedor-Texto3 :hover {
+    background-color: aquamarine;
+}
+.parrafo__descripcion {
+    margin-left: 250px;
+    margin-right: 250px;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    background-color: #fff3bd;
+    font-size: large;
+    padding: 10px;
+}
